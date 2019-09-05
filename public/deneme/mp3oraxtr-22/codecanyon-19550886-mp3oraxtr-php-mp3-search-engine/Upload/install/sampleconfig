@@ -1,0 +1,35 @@
+<?php
+
+ini_set('display_errors','0');
+ date_default_timezone_set('Africa/Lagos');
+
+/*
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+*/
+$database=array(
+'db_host'=>'<DB_HOST>',
+'db_user'=>'<DB_USER>',
+'db_pass'=>'<DB_PASSWORD>',
+'db_name'=>'<DB_NAME>'
+
+);
+
+$admin_user='admin';
+$admin_pass='admin';
+$siteurl='<WEB_DOMAIN>';
+
+extract($data_file);
+          
+$pagination=25;
+
+$downloads=false;
+$install=false;
+$config_url='admin.php';
+
+
+$api = preg_split("/\r\n|\n|\r/", $ytapi);
+$api=array_filter($api);
+$k = array_rand($api);
+$api_key_yt = $api[$k];

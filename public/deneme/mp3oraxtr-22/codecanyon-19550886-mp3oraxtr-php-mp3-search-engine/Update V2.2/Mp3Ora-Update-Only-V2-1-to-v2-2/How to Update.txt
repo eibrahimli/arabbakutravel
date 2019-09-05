@@ -1,0 +1,19 @@
+Please create backup of all files from your server, to a safe place,
+NOTE: all changes and theme updates will be remove after applying this updates!
+
+
+**** How to Update: ****
+Upload and replace all files to your server, 
+
+Give Write Permission to:
+
+	1. cache/images  << Directory 
+	2. cache         << Directory
+	3. includes/website_setting.conf
+
+Open Login in Admin Panel and set the settings as per your requirements.
+
+
+p.s: you must login in admin panel and save settings as per your requirements one time, otherwise you will get some error on website!
+
+Thanks,
