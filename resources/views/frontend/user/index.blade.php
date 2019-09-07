@@ -12,7 +12,7 @@
     </div>
   </div>
 </section>
-    
+
 @endsection
 
 @section('content')
@@ -39,17 +39,7 @@
                 <select name="sort_type" id="sort_type">
                   <option value="" selected>Sort by type</option>
                   <option value="tours">Tours</option>
-                  <option value="hotels">Hotels</option>
                   <option value="transfers">Transfers</option>
-                </select>
-              </div>
-            </div>
-            <div class="col-lg-2 col-md-3 col-6">
-              <div class="styled-select-filters">
-                <select name="sort_date" id="sort_date">
-                  <option value="" selected>Sort by date</option>
-                  <option value="oldest">Oldest</option>
-                  <option value="recent">Recent</option>
                 </select>
               </div>
             </div>
@@ -62,11 +52,11 @@
             <div class="col-lg-2 col-md-2">
               <div class="date">
                 <span class="month">Dec</span>
-                <span class="day"><strong>23</strong>Sat</span>
+                <span class="day"><strong>23</strong></span>
               </div>
             </div>
             <div class="col-lg-6 col-md-5">
-              <h3 class="hotel_booking">Hotel Mariott Paris<span>2 Adults / 2 Nights</span></h3>
+              <h3 class="tours_booking">Hotel Mariott Paris<span>2 Adults / 2 Nights</span></h3>
             </div>
             <div class="col-lg-2 col-md-3">
               <ul class="info_booking">
@@ -90,7 +80,7 @@
 
       <section id="section-3">
         <div class="row">
-         
+
             <div class="col-md-6 add_bottom_30">
                 <form action="{{ url('/profile/changep/'.Auth::user()->id) }}" method="POST">
                   @csrf
@@ -114,8 +104,8 @@
               <button type="submit" class="btn_1 green">@lang('frontend.updatePass')</button>
             </form>
             </div>
-          
-          
+
+
             <div class="col-md-6 add_bottom_30">
               @if(session('statusm'))
                 <div class="alert alert-success" role="alert">
@@ -134,10 +124,10 @@
               <div class="form-group">
                 <label>{{ __('frontend.confirmEmail') }}</label>
                 <input class="form-control" name="email_confirmation" id="confirm_new_password" type="text">
-              </div>            
+              </div>
               <button type="submit" class="btn_1 green">{{ __('frontend.updateEmail') }}</button>
             </form>
-            </div>        
+            </div>
         </div>
         <!-- End row -->
 
@@ -158,11 +148,11 @@
               <li>@lang('frontend.lastname') <span>{{ $user->lName }}</span>
               </li>
               <li>@lang('frontend.phonenumber') <span>{{ $user->phone }}</span>
-              </li>            
+              </li>
               <li>@lang('frontend.streetadress') <span>{{ $user->street }}</span>
               </li>
               <li>@lang('frontend.city') <span>{{ $user->city }}</span>
-              </li>            
+              </li>
               <li>@lang('frontend.country')<span>{{ $user->country }}</span>
               </li>
             </ul>
@@ -259,7 +249,7 @@
         <div class="form-inline upload_1">
           <div class="form-group">
             <input type="file" name="photo">
-          </div>      
+          </div>
         </div>
 
           <hr>
@@ -274,7 +264,7 @@
     <!-- End tabs -->
   </div>
   <!-- end container -->
-    
+
 @endsection
 
 @section('js')
@@ -284,12 +274,23 @@
   new CBPFWTabs(document.getElementById('tabs'));
 </script>
 <script>
-  $('.wishlist_close_admin').on('click', function (c) {
-    $(this).parent().parent().parent().fadeOut('slow', function (c) {});
+  $('#sort_type').on('change', function (c) {
+    let m = $(this).val();
+    let url;
+    if(m == 'tours') {
+        url = "{{ url('profile/'.auth()->user()->id) }}";
+        window.location.replace(url);
+    }
+    else if(m == 'transfers') {
+        url = "{{ url('profile/'.auth()->user()->id) }}/"+m;
+        alert(url);
+        //window.location.replace(url);
+    }
+
   });
 </script>
 
-<script type="text/javascript">
+<!--<script type="text/javascript">
 
   $(function(){
 
@@ -323,15 +324,14 @@
 
   });
 
-</script>
-    
+</script> -->
+
 @endsection
 
 @section('css')
-
   <link href="{{ asset('frontend/css/admin.css') }}" rel="stylesheet">
   <style type="text/css">
-    label,span,{
+    label,span{
       font-family: Nunito,sans-serif;
       font-size: 13px;
     }
@@ -345,5 +345,5 @@
       font-size: 13px;
     }
   </style>
-    
+
 @endsection

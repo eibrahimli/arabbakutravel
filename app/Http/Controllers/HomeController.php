@@ -35,7 +35,7 @@ class HomeController extends Controller
 
       $ayarlar = Setting::where('id', 1)->first();
       $ayarlar->siteSocial = explode('|||',$ayarlar->siteSocial);
-      
+
       return view("backend.settings.edit")->with('ayarlar',$ayarlar);
     }
 

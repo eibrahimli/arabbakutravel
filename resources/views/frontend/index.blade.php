@@ -14,7 +14,7 @@
     <?php $i = 1; ?>
     <div class="main_title">
       <h2>Ən <span>Yenİ</span> Turlar</h2>
-      <p>İstədiyiniz turu girib sifariş edə bilərsiniz.</p>
+      <p style="font-family: Nunito,sans-serif;">İstədiyiniz turu girib sifariş edə bilərsiniz.</p>
     </div>
 
     <div class="row">
@@ -50,7 +50,7 @@
 
     <div class="main_title">
       <h2>Ən <span>Yenİ</span> Oteller</h2>
-      <p>Xəyallarınızdakı oteli seçin və seçdiyiviz otelin otaqlarındakı konfortdan həzz alın.</p>
+      <p style="font-family: Nunito,sans-serif;">Xəyallarınızdakı oteli seçin və seçdiyiviz otelin otaqlarındakı konfortdan həzz alın.</p>
     </div>
 
     <div class="row">
