@@ -38,7 +38,7 @@ class SiteAyarController extends Controller
       $site->update($data);
 
       if($request->has('videoP')) {
-        //Storage::delete('public/'.$oldVideoP);
+        Storage::delete('public/'.$oldVideoP);
         $site->update([
           'videoP' => $request->videoP->store('uploads/site_ayars','public')
         ]);
