@@ -56,30 +56,30 @@
                     </div>
                     <!--/tools -->
 
-                    @if(count($tursifarisler)>0)
-                        @foreach($tursifarisler as $tursifaris)
+                    @if(count($transfersifarisler)>0)
+                        @foreach($transfersifarisler as $transfersifaris)
 
                             <div class="strip_booking">
                                 <div class="row">
                                     <div class="col-lg-2 col-md-2">
                                         <div class="date">
-                                            <span class="month">{{ $data[$tursifaris->id] }}</span>
-                                            <span class="day"><strong>{{ explode('-',explode(' ',$tursifaris->created_at)[0])[2] }}</strong></span>
+                                            <span class="month">{{ $data[$transfersifaris->id] }}</span>
+                                            <span class="day"><strong>{{ explode('-',explode(' ',$transfersifaris->created_at)[0])[2] }}</strong></span>
                                         </div>
                                     </div>
                                     <div class="col-lg-6 col-md-5">
-                                        <h3 class="tours_booking">{{ $tursifaris->title }}<span>{{ $tursifaris->adults }} {{ __('frontend.adults') }} / {{ $tursifaris->child }} {{ __('frontend.children') }}</span>
+                                        <h3 class="transfers_booking">{{ $transfersifaris->title }}<span>{{ $transfersifaris->adults }} {{ __('frontend.adults') }} / {{ $transfersifaris->child }} {{ __('frontend.children') }}</span>
                                         </h3>
                                     </div>
                                     <div class="col-lg-2 col-md-3">
                                         <ul class="info_booking">
-                                            <li><strong>@lang('frontend.bookingId')</strong> {{ $tursifaris->id }}</li>
-                                            <li><strong> @lang('frontend.bookedOn') </strong> {{ explode('-',explode(' ',$tursifaris->created_at)[0])[2] }} {{ $data[$tursifaris->id] }}. {{ explode('-',explode(' ',$tursifaris->created_at)[0])[0] }}</li>
+                                            <li><strong>@lang('frontend.bookingId')</strong> {{ $transfersifaris->id }}</li>
+                                            <li><strong> @lang('frontend.bookedOn') </strong> {{ explode('/', $transfersifaris->date)[0] }} {{ $data[$transfersifaris->id] }}. {{ explode('/', $transfersifaris->date)[2] }} | {{ $transfersifaris->time }}</li>
                                         </ul>
                                     </div>
                                     <div class="col-lg-2 col-md-2">
                                         <div class="booking_buttons">
-                                            <a href="{{ url('tursifaris/sil/'.$tursifaris->id) }}" class="btn_3">{{ $tursifaris->status == '0' ? trans('frontend.cancel') : trans('frontend.delete') }}</a>
+                                            <a href="{{ url('transfersifaris/sil/'.$transfersifaris->id) }}" class="btn_3">{{ $transfersifaris->status == '0' ? trans('frontend.cancel') : trans('frontend.delete') }}</a>
                                         </div>
                                     </div>
                                 </div>
@@ -87,10 +87,10 @@
                             </div>
 
                         @endforeach
-                            {{ $tursifarisler->links() }}
+                        {{ $transfersifarisler->links() }}
                     @else
                         <div class="alert alert-success" role="alert">
-                            {{ trans('frontend.emptyTurBooking') }}
+                            {{ trans('frontend.emptyTransferBooking') }}
                         </div>
                     @endif
 
@@ -317,43 +317,6 @@
 
         });
     </script>
-
-    <!--<script type="text/javascript">
-
-  $(function(){
-
-      $('#ajasxSubmit').on('click', function (e) {
-        e.preventDefault();
-        let fName = $('input[name=fName]').val();
-        let lName = $('input[name=lName]').val();
-        let street = $('input[name=street]').val();
-        let city = $('input[name=city]').val();
-        let country = $('input[name=country]').val();
-        let phone = $('input[name=phone]').val();
-        let photo = $('input[name=photo]').val();
-
-        $.ajaxSetup({
-           'headers': {
-            'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
-           }
-        });
-        $.ajax({
-           type : 'POST',
-           url : "{{url('/editprofile/'.$user->id) }}",
-           datatype: 'json',
-           data: {fName:fName, lName: lName, street:street,city:city,country:country,phone:phone,photo:photo},
-           success : function(data) {
-               alert(data.success.message.errors());
-           }
-
-        });
-
-      });
-
-  });
-
-</script> -->
-
 @endsection
 
 @section('css')

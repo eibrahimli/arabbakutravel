@@ -7,7 +7,6 @@
           @guest
             <li><a id="access_link" href="{{ url('/login') }}">{{ __('frontend.giris') }}</a></li>
           @else
-            <li><a href="{{ url('/profile/'.Auth::user()->id) }}" id="access_link">{{ "My Profile" }}</a></li>
             <li><a id="access_link" href="{{ route('logout') }}" onclick="event.preventDefault();
                                                      document.getElementById('logout-form').submit();"><i class="fa fa-power-off"></i> {{ __('Logout') }}</a></li>
             <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
@@ -49,7 +48,7 @@
           @else
             <li class="submenu"><a href="javascript:void(0);" class="show-submenu">{{ __('frontend.profile') }}<i class="icon-down-open-mini"></i></a>
               <ul >
-                <li style="font-family: Nunito,sans-serif; font-size: 13px;"><a href="{{ url('/profile/'.Auth::user()->id) }}">{{ __('frontend.profile') }}</a></li>
+                <li><a href="{{ url('/profile/'.Auth::user()->id) }}">{{ __('frontend.profile') }}</a></li>
                 <li><a href="{{ route('logout') }}" onclick="event.preventDefault();
                                                      document.getElementById('logout-form').submit();"><i class="fa fa-power-off"></i> {{ __('Logout') }}</a></li>
               </ul>

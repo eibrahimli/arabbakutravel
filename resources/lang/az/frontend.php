@@ -1,6 +1,6 @@
 <?php
 
-  return [
+return [
 
 
     'turs' => 'Turlar',
@@ -30,7 +30,7 @@
     'profile' => 'Profilim',
     'selectLang' => 'Dil Seç',
     'contactFill' => 'Aşağıdakı formu doldurub bizimlə əlaqə saxlayın...',
-    'fName' => 'Ad','lName' => 'Soyad', 'phone' => 'Telefon nömrəsi', 'message' => 'Mesajınız',
+    'fName' => 'Ad', 'lName' => 'Soyad', 'phone' => 'Telefon nömrəsi', 'message' => 'Mesajınız',
     'send' => 'Göndər',
     'helpcenter' => 'Köməyə ehtiyac var',
     'adress' => 'Adres',
@@ -46,11 +46,20 @@
     'bookings' => 'SİFARİşLəR', 'settings' => 'AYARLAR', 'userProfile' => 'PROFİL',
     'changeP' => 'Şifrənİzİ dəyİşİn', 'oldPass' => 'Əvvəlki şifrəniz', 'newPass' => 'Yeni Şifrəniz',
     'confirmP' => 'Yeni şifrəniz təkrar', 'updatePass' => 'Şİfrənİzİ Yenİləyİn',
-    'changeEmail' => 'E-poçtunuzu dəyİŞİn', 'oldEmail' => 'Əvvəlki e-poçtunuz' , 'newEmail' => 'Yeni e-poçtunuz' ,
+    'changeEmail' => 'E-poçtunuzu dəyİŞİn', 'oldEmail' => 'Əvvəlki e-poçtunuz', 'newEmail' => 'Yeni e-poçtunuz',
     'confirmEmail' => 'E-poçtunuzu təkrar', 'updateEmail' => 'E-poçtunuzu yenİlƏyİn',
-    'yourprofile' => 'SƏNİN PROFİLİN', 'username' => 'İSTİFADƏÇİ GİRİŞ ADI', 'firstname' => 'AD', 'lastname' => 'SOYAD',
-    'phonenumber' => 'TELEFON NÖMRƏSİ', 'streetadress' => 'KÜÇƏ ADRESİ', 'city' => 'ŞƏHƏR', 'country' => 'ÖLKƏ',
-    'editprofile' => 'PROFİLİVİ REDAKTƏ ET', 'editadress' => 'ŞƏXSİ ADRESİVİ REDAKTƏ ET', 'uploadprofilephoto' => 'PROFİL ŞƏKLİ YÜKLƏ',
-    'updateprofile' => 'PROFİLİVİ YENİLƏ','userUpdate' => 'Profil məlumatlarıvız yeniləndi',
-
-  ];
+    'yourprofile' => 'SƏNİN PROFİLİN', 'username' => 'İSTİFADƏÇİ GİRİŞ ADI', 'firstname' => 'AD',
+    'lastname' => 'SOYAD',    'phonenumber' => 'TELEFON NÖMRƏSİ', 'streetadress' => 'KÜÇƏ ADRESİ',
+    'city' => 'ŞƏHƏR', 'country' => 'ÖLKƏ',    'editprofile' => 'PROFİLİVİ REDAKTƏ ET',
+    'editadress' => 'ŞƏXSİ ADRESİVİ REDAKTƏ ET', 'uploadprofilephoto' => 'PROFİL ŞƏKLİ YÜKLƏ',
+    'updateprofile' => 'PROFİLİVİ YENİLƏ', 'userUpdate' => 'Profil məlumatlarıvız yeniləndi',
+    'bookingMessage' => 'Sifariş etmək üçün',    'fromHere' => 'Burdan',
+    'forBooking' => 'qeydiyyatdan keçməlisiniz', 'orRegister' => 'giriş və yaxud',
+    'pickUpAdress' => 'Götürüləcək Yer', 'dropOffAdress' => 'Aparılacaq Yer',
+    'transferSifaris' => 'Transferi uğurlu şəkildə sifariş etdiniz',
+    'emptyTurBooking' => 'Hələki tur sifariş etməmisiniz','cancel' => 'Ləğv Et' , 'delete' => 'Sil',
+    'bookingId' => 'Sİfarİş Nömrəsİ', 'bookedOn' => 'Sİfarİş Tarİxİ',
+    'emptyTransferBooking' => 'Hələki transfer sifariş etməmisiniz', 'searchTour' => 'Tur axtar',
+    'tourName' => 'Tur adı', 'chooseCategory' => 'Kayeqoriya seç','typeTourName' => 'Tur adını daxil edin',
+    'allTour' => 'Bütün Turlar',
+];

@@ -22,7 +22,7 @@ class CreateTurSifarisTable extends Migration
             $table->integer('price');
             $table->string('email');
             $table->string('phone');
-            $table->integer('status');
+            $table->integer('status')->default('0');
             $table->integer('adults');
             $table->integer('child');
             $table->timestamps();

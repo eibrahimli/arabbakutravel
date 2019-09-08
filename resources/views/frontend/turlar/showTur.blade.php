@@ -120,9 +120,9 @@
             </div>
           </form>
         @else
-          <div class="alert alert-warning" role="alert">
-            Please for booking this tour You have to login <a href="{{ url('/login') }}">From here </a> or register
-            <a href="{{ url('/register') }}">From here</a> to our website
+          <div class="alert alert-warning" role="alert" style="font-family: Nunito,sans-serif;">
+            @lang('frontend.bookingMessage') <a href="{{ url('/login') }}"> @lang('frontend.fromHere') </a> @lang('frontend.orRegister')
+            <a href="{{ url('/register') }}">@lang('frontend.fromHere')</a> @lang('frontend.forBooking') ...
           </div>
           <div class="box_style_4">
             <i class="icon_set_1_icon-90"></i>

@@ -125,6 +125,10 @@ Route::get('/contact', function (){
 Route::post('/contact', 'SiteController@create');
 Route::get('/kateqoriyalar/{kateqoriya}', 'SiteController@getKateqoriya');
 Route::post('/sifaris/{id}', 'SifarisController@turCreate');
+Route::post('/transfersifaris/{user}', 'SifarisController@transferCreate');
+Route::get('/profile/{user}/transfers', 'SiteController@getUserTransfersBookings');
+Route::get('/tursifaris/sil/{tursifaris}', 'SiteController@turSifarisSil');
+Route::get('/transfersifaris/sil/{transfersifaris}', 'SiteController@transferSifarisSil');
 Route::post('/turaxtar', 'AxtarController@turAxtar');
 Route::post('/otelaxtar', 'AxtarController@otelAxtar');
 Route::post('/restoranaxtar', 'AxtarController@restoranAxtar');
