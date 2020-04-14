@@ -42,6 +42,7 @@
           <li class="submenu"><a href="{{ url('/transferler')}}" class="show-submenu">{{ __('frontend.transfers') }}</a></li>
           <li class="submenu"><a href="{{ url('/restoranlar')}}" class="show-submenu">{{ __('frontend.restorans') }}</a></li>
           <li class="submenu"><a href="{{ url('/contact')}}" class="show-submenu">{{ __('frontend.contactMenu') }}</a></li>
+          <li class="submenu"><a href="{{ url('dreamtour')}}" class="show-submenu">{{ __('frontend.dreamtour') }}</a></li>
           @guest
             <li><a href="{{ url('/login') }}">{{ __('frontend.giris') }}</a></li>
             <li><a href="{{ url('/register') }}">{{ __('frontend.Register') }}</a></li>

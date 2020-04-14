@@ -74,8 +74,10 @@
         <h3>Haqqımızda</h3>
         <ul>
           <li><a href="{{ url('/aboutus') }}">{{ __('frontend.about') }}</a></li>
-          <li><a href="{{url('/login')}}">{{ __('frontend.giris') }}</a></li>
-          <li><a href="{{url('/register')}}">{{ __('frontend.Register') }}</a></li>
+          @if(!auth()->check())
+            <li><a href="{{url('/login')}}">{{ __('frontend.giris') }}</a></li>
+            <li><a href="{{url('/register')}}">{{ __('frontend.Register') }}</a></li>
+          @endif
         </ul>
       </div>
       <div class="col-md-2">

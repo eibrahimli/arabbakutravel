@@ -81,6 +81,16 @@
         'create' => 'Yeni Restoran'
       ]
     ],
+    'dreamtur' => [
+      'id' => 'dreamtur',
+      'title' => 'Dreamturlar',
+      'icon' => 'ti-view-grid',
+      'submenu' => [
+        'activedreamtours' => 'Bütün Təsdiqli DreamTurlar',
+        'deactivedreamtours' => 'Bütün Təsdiqsiz DreamTurlar',
+
+      ]
+    ],
 
   ];
 ?>

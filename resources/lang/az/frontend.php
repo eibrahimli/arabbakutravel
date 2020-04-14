@@ -2,8 +2,8 @@
 
 return [
 
-
-    'turs' => 'Turlar',
+    'remember' => 'Məni xatırla', 'forgot' => 'Şifrəni unutmusan?', 'resetPass' => 'Şifrəni Sıfırla',
+    'turs' => 'Turlar', 'sendReset' => 'Şifrə sıfırlayıcı linki göndər',
     'lang' => 'Azərbaycan',
     'lang2' => 'Ingilis',
     'lang3' => 'Ərəb',
@@ -61,5 +61,8 @@ return [
     'bookingId' => 'Sİfarİş Nömrəsİ', 'bookedOn' => 'Sİfarİş Tarİxİ',
     'emptyTransferBooking' => 'Hələki transfer sifariş etməmisiniz', 'searchTour' => 'Tur axtar',
     'tourName' => 'Tur adı', 'chooseCategory' => 'Kayeqoriya seç','typeTourName' => 'Tur adını daxil edin',
-    'allTour' => 'Bütün Turlar',
+    'allTour' => 'Bütün Turlar', 'dreamtour' => 'Dreamtur','dreamTour' => 'Dream Tur',
+    'dreamTourName' => 'Dream tur başlığını yazın', 'desc' => 'Açıqlama', 'create' => 'Əlavə Et', 
+    'schedule' => 'Cədvəl','price' => 'Qiymət', 'empty' => 'Boş Buraxma',
+    'searchTour2' => 'Yeni dream tur əlavə et','city2' => 'Şəhər','dreamTourAdded' => 'Dreamtur saytımıza əlavə edildi...',
 ];

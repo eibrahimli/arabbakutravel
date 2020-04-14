@@ -1,7 +1,7 @@
 <?php
 
-return [
-
+return [ 
+    'remember'=> 'Remember Me', 'forgot' => 'Forgot Your Password?', 'resetPass' => 'Reset Password',
     'turs' => 'Tours', 'lang' => 'Azerbaijan', 'lang2' => 'English', 'lang3' => 'Arabic',
     'home' => 'Home', 'otels' => 'Hotels', 'transfers' => 'Transfers', 'restorans' => 'Restaurants',
     'giris' => 'Login', 'turAciq' => 'Description', 'turCedvel' => 'Schedule', 'person' => 'From/Per person',
@@ -38,6 +38,9 @@ return [
     'emptyTurBooking' => 'You haven\'t booked any tour yet', 'cancel' => 'Cancel' , 'delete' => 'Delete',
     'bookingId' => 'BOOKING ID', 'bookedOn' => 'BOOKED ON',
     'emptyTransferBooking' => 'You haven\'t booked any transfer yet', 'searchTour' => 'Search for tour',
-    'tourName' => 'Tour name', 'chooseCategory' => 'Choose category','typeTourName' => 'Type tour name',
-    'allTour' => 'All tours',
+    'searchTour2' => 'Add a dream tour','tourName' => 'Tour name', 'chooseCategory' => 'Choose category',
+    'typeTourName' => 'Type tour name','allTour' => 'All tours', 'dreamtour' => 'Dreamtour', 'dreamTour' => 'Dream Tour',
+    'dreamTourName' => 'Type your dream tour title', 'desc' => 'Description', 'create' => 'Add', 'schedule' => 'Schedule',
+    'price' => 'Price', 'empty' => 'Please fill out this field', 'sendReset' => 'Send Password Reset Link',
+    'dreamTourAdded' => 'Dreamtour was added to our website',
 ];

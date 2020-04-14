@@ -21,6 +21,7 @@ use Intervention\Image\Facades\Image;
 
 class SiteController extends Controller
 {
+    protected $data;
     public function index()
     {
         $categories = Categorie::all();
@@ -146,11 +147,11 @@ class SiteController extends Controller
             foreach ($transfersifarisler as $transfersifaris):
                 $month = explode('/',$transfersifaris->date)[1];
                 if(array_key_exists($month,$az)) {
-                    $data[$transfersifaris->id] = $az[$month];
+                    $this->data[$transfersifaris->id] = $az[$month];
                 }
             endforeach;
         endif;
-        return view('frontend.user.transfersIndex', compact('transfersifarisler','user', 'data'));
+        return view('frontend.user.transfersIndex', compact('transfersifarisler','user'))->with('data',$this->data);
     }
 
     public function turSifarisSil(TurSifaris $tursifaris) {
@@ -245,7 +246,7 @@ class SiteController extends Controller
         $header .= "Reply-To: " . $data['fName'] . " " . $data['lName'] . "<" . $data['email'] . ">";
         $mesaj = '<div style="padding: 10px; font-size: 14px; color: #fff; font-weight:bold;">' . $data['context'] . '</div>
                   <div style="margin: 10px 0; border: 1px solid #ddd;color: #333;padding: 10px;">' . $data['message'] . '</div>
-                  <div style="border-top: 1px solid #ddd; padding: 10px 0; font-style: oblique; color: #aaa;">Bütün Hüquqları Qorunur..</div>  
+                  <div style="border-top: 1px solid #ddd; padding: 10px 0; font-style: oblique; color: #aaa;">Bütün Hüquqları Qorunur..</div>
                 ';
         if (mail($setting->siteMail, $data['context'], $mesaj, $header)) {
             return redirect(url('/contact'))->with('status', 'Mesajınız göndərildi');

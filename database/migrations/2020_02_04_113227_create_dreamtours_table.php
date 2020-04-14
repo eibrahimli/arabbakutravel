@@ -16,7 +16,7 @@ class CreateDreamtoursTable extends Migration
         Schema::create('dreamtours', function (Blueprint $table) {
             $table->bigIncrements('id');
             $table->string('title');
-            $table->string('city');
+            $table->string('city');            
             $table->text('desc');
             $table->text('schedule');
             $table->string('price');

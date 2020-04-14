@@ -26,7 +26,7 @@
                     </li>
                     <li><a href="#section-3" class="icon-settings"><span>@lang('frontend.settings')</span></a>
                     </li>
-                    <li <?php if (session('statusProfile') || session('ok') == true) echo 'class="tab-current"';?>><a
+                    <li><a
                             href="#section-4" class="icon-profile"><span>@lang('frontend.userProfile')</span></a>
                     </li>
                 </ul>
@@ -288,6 +288,7 @@
                 </section>
                 <!-- End section 4 -->
 
+
             </div>
             <!-- End content -->
         </div>
@@ -304,6 +305,14 @@
         new CBPFWTabs(document.getElementById('tabs'));
     </script>
     <script>
+        $(window).load(function () {
+            if('{{ session("tabcurrent") }}' == 'dreamtour') {
+                $('nav ul li').removeClass('tab-current');
+                $('section').removeClass('content-current');
+                $('nav ul li:nth-child(4)').addClass('tab-current');
+                $('#section-5').addClass('content-current');
+            }
+        })
         $('#sort_type').on('change', function (c) {
             let m = $(this).val();
             let url;
@@ -316,6 +325,8 @@
             }
 
         });
+
+        $('nav li:')
     </script>
 
     <!--<script type="text/javascript">

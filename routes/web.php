@@ -104,6 +104,17 @@ Route::group(['prefix' => 'admin','middleware' => 'onlyAdmin'], function () {
   Route::patch('/sehifeler/aboutus/{sehife}', 'PageController@update');
 
   // Səhifə rotalarının bitişi
+
+  // Dreamtour rotalarının başlanğıcı
+
+  Route::get('dreamtur/activedreamtours', 'DreamtourController@activedreamtours')->name('activedreamtours');
+  Route::get('dreamtur/deactivedreamtours', 'DreamtourController@deactivedreamtours')->name('deactivedreamtours');
+  Route::get('dreamtur/{dreamtur}','DreamtourController@active')->name('dreamtouractive');
+  Route::get('dreamtur/{dreamtur}/delete','DreamtourController@delete')->name('delete');
+  Route::get('dreamtur/{dreamtur}/show', 'DreamtourController@show')->name('dreamtourshow');
+  Route::patch('dreamtur/{dreamtur}','DreamtourController@update')->name('dreamtourupdate');
+
+  // Dreamtour rotalarının bitişi
 });
 
 Auth::routes();
@@ -136,4 +147,6 @@ Route::get('/profile/{user}', 'SiteController@getUser')->middleware('auth');
 Route::patch('/profile/changem/{user}', 'SiteController@changeEmail')->middleware('auth');
 Route::patch('/profile/changep/{user}', 'SiteController@changeP')->middleware('auth');
 Route::patch('/editprofile/{user}', 'SiteController@updateProfile')->middleware('auth');
+Route::get('dreamtour', 'DreamtourIndexController@index');
+Route::post('/dreamtour', 'DreamtourIndexController@create')->name('dreamtour');
 
